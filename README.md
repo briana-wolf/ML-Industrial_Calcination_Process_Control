@@ -3,7 +3,7 @@
 In the processing of an industrial mineral, the calcination step determines an important mineral property which is identified as PV (process variable) for this project. In order to control the PV, operators have numerous levers that impact the kiln temperature and product flow through the kiln. Given the number of various input parameters that also affect PV as well as the lag in feedback on any adjustments, the calcination is not well controlled manually leading to out of specification product. In this project, the feasibility of using supervised machine learning to control kiln operation is assessed for this multi-variate control problem. 
 
 ## Data
-Data uploaded here is a modified data set for demonstration purposes. 
+Data uploaded here (KD - mod.xlsx) is a modified data set for demonstration purposes. 
 
  * Operators collect samples from the kiln discharge every ~2 hrs and send to the production lab for analysis. Results are entered into LIMS and have been exported to Excel for use here. This data contains the following fields:
   * Date is the date that the sample was entered into LIMS. 
