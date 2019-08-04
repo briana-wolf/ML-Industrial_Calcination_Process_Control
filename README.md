@@ -29,4 +29,5 @@ There are quite a few challenges with this data set.
 * The PV test itself has a relatively high variability
 
 There is mild predictive power with the simple model demonstrated, but performance would improve with a more robust data set so that additional input parameters can be included. The model would then look at inputs from upstream properties and determine how to control the kiln. While the concept proves promising, data collection must be improved to further develop models for use. 
+Upstream process control to eliminate feed variability into the kiln will always be preferred to these methods. 
 
