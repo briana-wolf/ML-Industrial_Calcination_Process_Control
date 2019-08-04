@@ -6,7 +6,7 @@ In the processing of an industrial mineral, the calcination step determines an i
 Data uploaded here is a modified data set for demonstration purposes. 
 
  * Operators collect samples from the kiln discharge every ~2 hrs and send to the production lab for analysis. Results are entered into LIMS and have been exported to Excel for use here. This data contains the following fields:
-  * Date is the date that the sample was entered. 
+  * Date is the date that the sample was entered into LIMS. 
   * The notes typically contains the sample time and this text field has been converted to a date. Sample time may not be very accuracy as operators may not take the sample right at the hourly scheduled time but the sample time is still recorded as such.
   * PV is the sample variable measured, the target property to be controlled
   * CompA and CompF are also lab measured properties on the kiln discharge samples. Composition also impacts PV and is controlled by upstream processing steps. It is not affected by the calcination process
