@@ -1,7 +1,7 @@
 # ML-Industrial_Calcination_Process_Control
 #Objective
 In the mineral processing the calcination step improves an important property of the mineral which we have called PV. In order to control this property, operators have numerous levers to modify. The amount of time it is 
-In this project I assess the feasibility of using machine learning to determine for this multi-variate control problem. 
+In this project I assess the feasibility of using supervised machine learning to determine for this multi-variate control problem. 
 
 #Data
 Data contains lab results from kiln discharge samples in a mineral calcincation process. Data uploaded here is a modified data set for demonstration purposes. 
